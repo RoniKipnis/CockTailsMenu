@@ -6,6 +6,7 @@
 
 ```
 
-"build": "CI= react-scripts build",
+Live server : 
+https://roni-cocktails.netlify.app/
 
 ```
